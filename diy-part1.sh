@@ -15,3 +15,9 @@
 
 # Add a feed source
 #sed -i '$a src-git lienol https://github.com/Lienol/openwrt-package' feeds.conf.default
+
+# IPTV
+git clone https://github.com/riverscn/openwrt-iptvhelper.git ./package/diy/iptvhelper
+
+# OpenClash
+git clone https://github.com/vernesong/OpenClash.git ./package/diy/OpenClash
