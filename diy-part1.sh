@@ -19,5 +19,5 @@
 # IPTV
 git clone https://github.com/riverscn/openwrt-iptvhelper.git ./package/diy/iptvhelper
 
-# OpenClash
-git clone https://github.com/vernesong/OpenClash.git ./package/diy/OpenClash
+# Passwall
+git clone https://github.com/xiaorouji/openwrt-passwall.git./package/diy/Passwall
