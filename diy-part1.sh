@@ -20,4 +20,4 @@
 git clone https://github.com/riverscn/openwrt-iptvhelper.git ./package/diy/iptvhelper
 
 # Passwall
-git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/diy/Passwall
+git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/diy/passwall
