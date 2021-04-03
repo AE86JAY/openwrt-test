@@ -21,3 +21,9 @@ git clone https://github.com/riverscn/openwrt-iptvhelper.git ./package/diy/iptvh
 
 # Passwall
 git clone https://github.com/xiaorouji/openwrt-passwall.git ./package/diy/passwall
+
+# filebrowser
+git clone https://github.com/xiaozhuai/luci-app-filebrowser.git ./package/diy/filebrowser
+
+# App过滤
+git clone https://github.com/destan19/OpenAppFilter.git ./package/diy/OpenAppFilter
