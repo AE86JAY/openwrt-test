@@ -33,9 +33,3 @@ git clone https://github.com/zzsj0928/luci-app-pushbot.git ./package/diy/pushbot
 
 # SSR PLUS
 git clone https://github.com/fw876/helloworld.git ./package/diy/helloworld
-
-# AdGuardHome广告过虑
-# git clone https://github.com/AdguardTeam/AdGuardHome.git ./package/diy/AdGuardHome
-
-# Luci AdGuardHome广告过虑
-# git clone https://github.com/rufengsuixing/luci-app-adguardhome.git ./package/diy/luci-app-adguardhome
